@@ -1,3 +1,4 @@
 #!/bin/bash
+Merge conflict 
 echo "ALX School"
 >>>>>>> update_script
